@@ -10,6 +10,7 @@ scoreboard objectives add dd_AFK_x2 dummy
 scoreboard objectives add dd_AFK_y2 dummy
 scoreboard objectives add dd_AFK_z2 dummy
 scoreboard objectives add dd_AFK_Check dummy
+scoreboard objectives add VP.dd dummy
 
 scoreboard players set $AfkTime dd_AFK_Check 150
 
