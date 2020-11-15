@@ -11,7 +11,7 @@ scoreboard objectives remove dd_AFK_z1
 scoreboard objectives remove dd_AFK_x2
 scoreboard objectives remove dd_AFK_y2
 scoreboard objectives remove dd_AFK_z2
-
+scoreboard objectives remove VP.dd
 
 team remove dd_Overworld
 team remove dd_Nether
